@@ -1,0 +1,9 @@
+#dataTable{
+    margin: 0px 30px;
+    
+}
+
+#dataTable tr > th, #dataTable tr > td {
+    border: 1px solid black;
+    padding: 10px;
+}
